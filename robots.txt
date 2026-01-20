@@ -1,0 +1,7 @@
+# robots.txt for International Remote Internships (IRI)
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://iri-internships.netlify.app/sitemap.xml
